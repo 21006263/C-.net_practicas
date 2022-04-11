@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaNegocio\bin\Debug\netcoreapp3.1\capaNegocio.deps.json
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaNegocio\bin\Debug\netcoreapp3.1\capaNegocio.dll
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaNegocio\bin\Debug\netcoreapp3.1\capaNegocio.pdb
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaNegocio\bin\Debug\netcoreapp3.1\capaDatos.dll
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaNegocio\bin\Debug\netcoreapp3.1\capaEntidad.dll
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaNegocio\bin\Debug\netcoreapp3.1\capaDatos.pdb
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaNegocio\bin\Debug\netcoreapp3.1\capaEntidad.pdb
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaNegocio\obj\Debug\netcoreapp3.1\capaNegocio.vbproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaNegocio\obj\Debug\netcoreapp3.1\capaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaNegocio\obj\Debug\netcoreapp3.1\capaNegocio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaNegocio\obj\Debug\netcoreapp3.1\capaNegocio.AssemblyInfo.vb
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaNegocio\obj\Debug\netcoreapp3.1\capaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaNegocio\obj\Debug\netcoreapp3.1\capaNegocio.vbproj.CopyComplete
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaNegocio\obj\Debug\netcoreapp3.1\capaNegocio.dll
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaNegocio\obj\Debug\netcoreapp3.1\capaNegocio.pdb

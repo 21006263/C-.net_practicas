@@ -1,0 +1,10 @@
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaEntidad\bin\Debug\netcoreapp3.1\capaEntidad.deps.json
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaEntidad\bin\Debug\netcoreapp3.1\capaEntidad.dll
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaEntidad\bin\Debug\netcoreapp3.1\capaEntidad.pdb
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.AssemblyInfo.vb
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.vbproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.dll
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.pdb
+C:\Users\USUARIO\Desktop\Escritorio 2021-2022\CRUD con Visual basic.NET\myApp1\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.vbproj.AssemblyReference.cache
